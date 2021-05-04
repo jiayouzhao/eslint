@@ -1,4 +1,4 @@
-# ESlint全局配置
+# ESlint全局简单配置
 
 1. 下载eslint
 
