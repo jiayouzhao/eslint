@@ -23,7 +23,7 @@
 
     demo文件里生成一个.eslintrc.js的文件
 
-    将.eslintrc.js文件移动到你的nodejs文件（npm包下载的位置，方便以后在寻找）
+    将.eslintrc.js文件移动到你的nodejs文件（npm包下载的位置，方便以后在寻找，比如我的是E:/nodejs）
 
 4. vscode里文件 -> 首选项 -> 设置 
 
