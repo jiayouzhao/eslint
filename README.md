@@ -42,7 +42,7 @@
 
 ## html问题
      
-    在html文件中<!DOCTYPE html>会提示错误，可npm install -g eslint-plugin-html 解决
+在html文件中<!DOCTYPE html>会提示错误，可npm install -g eslint-plugin-html 解决
 
 
 
