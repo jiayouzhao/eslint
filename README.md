@@ -39,3 +39,10 @@
     ```
 
 5. 规范地址  https://eslint.bootcss.com/docs/rules/
+
+## html问题
+     
+    在html文件中<!DOCTYPE html>会提示错误，可npm install -g eslint-plugin-html 解决
+
+
+
